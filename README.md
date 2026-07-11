@@ -3,7 +3,8 @@ End-to-end Business Intelligence solution for an education organisation using Po
 
 I built this project from raw OULAD CSV files. I designed the relational database schema, created and managed the database in PostgreSQL using DBeaver, imported and validated the source data, wrote SQL queries for analysis, and built the reporting layer in Power BI.
 
-****About OULAD (Open University Learning Analytics Dataset): ****
+About OULAD (Open University Learning Analytics Dataset):
+
 **Context**
 
 Open University is a public British University that also has the highest number of undergraduate students in the UK. It is the largest academic institution in the United Kingdom (and one of the largest in Europe) with 2 Million enrolled students since it is established at 1969. As can be understood from its name, Open University mainly populated by off-campus students.
